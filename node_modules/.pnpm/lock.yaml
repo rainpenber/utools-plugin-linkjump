@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+devDependencies:
+  utools-api-types:
+    specifier: ^7.2.0
+    version: 7.2.0
+
+packages:
+
+  /utools-api-types@7.2.0:
+    resolution: {integrity: sha512-hXj1NHhgFChp+wvfqL99AlNGDiJgDOXPUaKKnuxMqvz5D6J1IdBy6MUNti4cjmRyAKx407APsdg13MWU+xW1+Q==}
+    dev: true
